@@ -1,0 +1,38 @@
+{
+  "name": "paitcher",
+  "version": "1.0.0",
+  "description": "A gentle page switcher for mulit page application / web site.",
+  "main": "paitcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BearD01001/paitcher.git"
+  },
+  "keywords": [
+    "page",
+    "switcher"
+  ],
+  "author": "BearD01001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BearD01001/paitcher/issues"
+  },
+  "homepage": "https://github.com/BearD01001/paitcher#readme",
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "deprecated": "0.0.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-less": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rev-append": "^0.1.7",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.11",
+    "less-plugin-autoprefix": "^1.5.1",
+    "orchestrator": "^0.3.7",
+    "vinyl-fs": "^2.4.3"
+  }
+}
