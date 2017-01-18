@@ -22,6 +22,7 @@
   "homepage": "https://github.com/BearD01001/paitcher#readme",
   "devDependencies": {
     "babel-preset-latest": "^6.16.0",
+    "colors": "^1.1.2",
     "deprecated": "0.0.1",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
@@ -36,6 +37,7 @@
     "gulp-util": "^3.0.7",
     "gulp-watch": "^4.3.11",
     "less-plugin-autoprefix": "^1.5.1",
+    "moment": "^2.17.1",
     "orchestrator": "^0.3.7",
     "vinyl-fs": "^2.4.3"
   }
