@@ -36,6 +36,14 @@ module.exports = {
         ]
     },
 
+    cleanCSS: {
+        compatibility: 'ie7'
+    },
+
+    rename: {
+        suffix: '.min'
+    },
+
     /* plumber: error catcher */
     plumberCatch: function(e) {
         gutil.beep();
