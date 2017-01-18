@@ -8,7 +8,7 @@ module.exports = {
     /* path */
     html: {
         src: 'src/demo/*.html',
-        dist: 'doc/demo/'
+        dist: 'docs/demo/'
     },
     css: {
         src: 'src/*.less',
