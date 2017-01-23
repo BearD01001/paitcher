@@ -8,15 +8,18 @@ module.exports = {
     /* path */
     html: {
         src: 'src/demo/*.html',
+        srcCopy: 'docs/demo/*.html',
         dist: 'docs/demo/'
     },
     css: {
         src: 'src/*.less',
-        dist: 'dist/'
+        dist: 'dist/',
+        distDemo: 'docs/'
     },
     js: {
         src: 'src/*.js',
-        dist: 'dist'
+        dist: 'dist/',
+        distDemo: 'docs/'
     },
 
     sourcemaps: {
